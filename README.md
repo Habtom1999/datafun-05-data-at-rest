@@ -1,5 +1,5 @@
 # datafun-05-data-at-rest
-# Files,Exceptions, and SQL 
+# Files,Exceptions, and SQL Data Structure
 ---
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
 
